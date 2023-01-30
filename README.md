@@ -8,4 +8,6 @@
 
 - 🌱 I’m currently learning **SQL**
 
+- 🌱 I’m currently learning Data Visualization tool **Power Bi**
+
 - 📫 Reach me **sarannithish069@gmail.com**
