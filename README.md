@@ -6,6 +6,6 @@
 
 - 🔭 I’m currently studying in **Coimbatore Institute of Technology**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently exploring **Data Visualization Tools**
 
 - 📫 Reach me **sarannithish069@gmail.com**
