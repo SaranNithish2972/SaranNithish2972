@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarannithish2972&label=Profile%20views&color=0e75b6&style=flat" alt="sarannithish2972" /> </p>
 
 - 🔭 I’m currently studying in **Coimbatore Institute of Technology**
-
-- 🌱 I’m currently exploring **Data Visualization Tools**
+  
+- 📝 Learning **Data Structures and Algorithms**
+  
+- 🌱 Exploring **Data Visualization Tools**
 
 - 📫 Reach me **sarannithish069@gmail.com**
