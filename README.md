@@ -9,4 +9,6 @@
   
 - 🌱 Exploring **Data Visualization Tools**
 
+- 👯 Seeking opportunities to collaborate on advanced Data Science projects, contribute to open-source initiatives, and participate in hackathons to enhance my skills.
+
 - 📫 Reach me **sarannithish069@gmail.com**
