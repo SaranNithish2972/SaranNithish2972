@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 📝 I regularly write articles on [ss](ss)
-
 - 📫 How to reach me **sarannithish069@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
